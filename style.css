@@ -1,0 +1,12 @@
+body{
+    background-color: dimgray;
+}
+.title{
+    color: brown;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.title-two{
+    color: forestgreen;
+    text-align: center;
+}
